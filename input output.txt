@@ -1,0 +1,34 @@
+#include <iostream>
+
+using namespace std;
+
+
+int main() {
+            
+           int a;
+            
+           char b;
+            
+           float c;
+            
+           long d;
+             
+           double e;
+            
+           bool f;
+            
+           cin>>a;
+            
+           cin>>b;
+            
+           cin>>c;
+            
+           cin>>d;
+            
+           cin>>e;
+            
+           cin>>f;
+            
+           cout<<" The integer is "<<a<<", the charachter is "<<b<<",the float variable is "<<c<<", the long variable is "<<d<<", the double variable is "<<e<<" and the boolean variable is "<<f;
+	
+           return 0;
